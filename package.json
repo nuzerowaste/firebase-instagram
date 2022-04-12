@@ -5,6 +5,9 @@
   "author": null,
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
+  "engines": {
+    "node": "16.14.2"
+  },
   "dependencies": {
     "expo": "^35.0.0",
     "expo-constants": "~7.0.0",
